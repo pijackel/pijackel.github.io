@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hudev</title>
+    <title>Tags on hudev</title>
     <link>https://yonimelman.github.io/tags/</link>
-    <description>Recent content in Tags on Hudev</description>
+    <description>Recent content in Tags on hudev</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
-    <lastBuildDate>Sat, 30 Dec 2017 19:45:10 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jun 2018 07:00:17 +0300</lastBuildDate>
     
 	<atom:link href="https://yonimelman.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Python</title>
       <link>https://yonimelman.github.io/tags/python/</link>
-      <pubDate>Sat, 30 Dec 2017 19:45:10 +0200</pubDate>
+      <pubDate>Tue, 05 Jun 2018 07:00:17 +0300</pubDate>
       
       <guid>https://yonimelman.github.io/tags/python/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Testing</title>
       <link>https://yonimelman.github.io/tags/testing/</link>
-      <pubDate>Sat, 30 Dec 2017 19:45:10 +0200</pubDate>
+      <pubDate>Tue, 05 Jun 2018 07:00:17 +0300</pubDate>
       
       <guid>https://yonimelman.github.io/tags/testing/</guid>
       <description></description>
