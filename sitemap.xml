@@ -3,41 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yonimelman.github.io/posts/testing_intro/</loc>
+    <loc>https://pijackel.github.io/posts/testing_intro/</loc>
     <lastmod>2018-06-05T07:00:17+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yonimelman.github.io/categories/</loc>
+    <loc>https://pijackel.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yonimelman.github.io/posts/</loc>
-    <lastmod>2018-06-05T07:00:17+03:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://yonimelman.github.io/tags/python/</loc>
+    <loc>https://pijackel.github.io/posts/</loc>
     <lastmod>2018-06-05T07:00:17+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yonimelman.github.io/tags/</loc>
+    <loc>https://pijackel.github.io/tags/python/</loc>
     <lastmod>2018-06-05T07:00:17+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yonimelman.github.io/tags/testing/</loc>
+    <loc>https://pijackel.github.io/tags/</loc>
     <lastmod>2018-06-05T07:00:17+03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://yonimelman.github.io/</loc>
+    <loc>https://pijackel.github.io/tags/testing/</loc>
+    <lastmod>2018-06-05T07:00:17+03:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pijackel.github.io/</loc>
     <lastmod>2018-06-05T07:00:17+03:00</lastmod>
     <priority>0</priority>
   </url>

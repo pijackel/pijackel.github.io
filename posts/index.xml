@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on hudev</title>
-    <link>https://yonimelman.github.io/posts/</link>
-    <description>Recent content in Posts on hudev</description>
+    <title>Posts on pijackel</title>
+    <link>https://pijackel.github.io/posts/</link>
+    <description>Recent content in Posts on pijackel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
     <lastBuildDate>Tue, 05 Jun 2018 07:00:17 +0300</lastBuildDate>
     
-	<atom:link href="https://yonimelman.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pijackel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Developer Testing: How I learned to stop worrying and start testing</title>
-      <link>https://yonimelman.github.io/posts/testing_intro/</link>
+      <link>https://pijackel.github.io/posts/testing_intro/</link>
       <pubDate>Tue, 05 Jun 2018 07:00:17 +0300</pubDate>
       
-      <guid>https://yonimelman.github.io/posts/testing_intro/</guid>
+      <guid>https://pijackel.github.io/posts/testing_intro/</guid>
       <description>&amp;ldquo;Why do I need testing? I write code with little or no bugs&amp;rdquo;, &amp;ldquo;I tested my code! when I wrote it&amp;rdquo; or &amp;ldquo;Isn&amp;rsquo;t it QA&amp;rsquo;s responsibility?&amp;rdquo; are all sayings some of us make regarding testing. Sure, testing is an annoyance no developer wants to deal with.. after all, we&amp;rsquo;re not quality assurance engineers. We write the code, the features, the business logic. And maybe they&amp;rsquo;re even right. If you must deliver as soon as possible, it&amp;rsquo;s easier to leave formality aside, crunch the code real fast, deliver and move to the next challenge.</description>
     </item>
     
